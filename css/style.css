@@ -1,0 +1,39 @@
+body{
+    margin:0;
+}
+
+#flagStand {
+    position:absolute;
+    background:#a06700;
+    height:300px;
+    width:10px;
+    top:0;
+    left:0;
+}
+
+#flagStandBottom1,#flagStandBottom2  {
+    height:40px;
+    width:30px;
+    background:#555;
+    position:absolute;
+    bottom:0;
+    left:-10px;
+}
+
+#flagStandBottom2 {
+    width:60px;
+    height:25px;
+    left:-25px;
+}
+
+#btm{
+    background:-webkit-linear-gradient(left,rgb(252,33,83),rgb(252,142,83),rgb(42,242,176),rgb(42,181,255),rgb(125,85,255),rgb(249,67,252));
+    color:transparent;
+     -webkit-background-clip: text;
+     background-clip: text;
+     font-family: 'Satisfy', cursive;
+     font-size:30px;
+     position:fixed;
+     bottom:0;
+     right:0;
+}
