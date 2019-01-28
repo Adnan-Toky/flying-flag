@@ -28,7 +28,7 @@ Download & unzip source file and open ```index.html```
 * JavaScript
 * CSS
 
-## Authors
+## Author
 
 * **Adnan Zawad Toky** - *Initial work* - [Flying Flag](https://code.sololearn.com/WnzVETb1Orh6) on *__SoloLearn__*.
 
